@@ -1,44 +1,26 @@
 # Claude Code — Profesyonel Kullanım Rehberi
 
-Claude Code'u profesyonel, verimli ve güvenli bir şekilde kullanmayı öğrenmek isteyen yazılım geliştiriciler ve yapay zekâ meraklıları için hazırlanmış bir dokümantasyon projesi.
+Claude Code'u profesyonel, verimli ve güvenli bir şekilde kullanmayı öğrenmek isteyenler için hazırlanmış dokümantasyon projesi.
 
 ## 🎯 Projenin Amacı
 
-Bu projenin amacı, Claude Code'un sunduğu olanakları sistematik biçimde incelemek; etkili prompt hazırlama, proje bağlamını yönetme, güvenlik, test süreçleri ve profesyonel geliştirme iş akışları hakkında düzenli bir başvuru kaynağı oluşturmaktır.
+Bu projenin amacı, Claude Code'un özelliklerini ve profesyonel kullanım yöntemlerini sistematik bir şekilde açıklayan, düzenli ve güncellenebilir bir başvuru kaynağı oluşturmaktır.
 
-## 📚 Dokümantasyon İçeriği
+## 📚 Ana Rehber
 
-- Claude Code'un temel çalışma modeli
-- Görev türüne göre doğru çalışma yaklaşımı
+**[Claude Code Profesyonel Kullanım Rehberini Oku](claude-code-professional-guide.md)**
+
+Rehberde ele alınan başlıca konular:
+
+- Temel çalışma modeli ve görev planlama
 - Profesyonel günlük iş akışı
 - Kullanıma hazır prompt şablonları
-- `CLAUDE.md` ile proje bağlamı yönetimi
+- `CLAUDE.md` ile proje bağlamını yönetme
 - Skills, Hooks, Subagents ve MCP
 - Güvenlik ve izin yönetimi
 - Bağlam ve maliyet yönetimi
 - Takım çalışmalarında ölçeklendirme
 - Sık yapılan hatalar ve hızlı başlangıç kontrol listesi
-
-## 📂 Depo Yapısı
-
-```text
-claude-code-guide/
-├── README.md
-├── docs/
-│   ├── profesyonel-kullanim-rehberi.md
-│   ├── prompt-sablonlari.md
-│   └── guvenlik-ve-izinler.md
-├── assets/
-└── LICENSE
-```
-
-*Not: Bu yapı hedeflenen dosya düzenini gösterir. Dosyalar depoya eklendikçe içerik güncellenecektir.*
-
-## 📖 Ana Kaynak
-
-Projenin temel dokümanı, Claude Code'un profesyonel kullanımını ele alan kapsamlı rehberdir.
-
-Başlangıçta rehberin DOCX sürümü kullanılabilir. Markdown ve PDF sürümleri de okunabilirliği ve farklı platformlardaki erişilebilirliği artırmak amacıyla eklenebilir.
 
 ## 🔗 Resmî Kaynaklar
 
@@ -50,7 +32,7 @@ Başlangıçta rehberin DOCX sürümü kullanılabilir. Markdown ve PDF sürüml
 
 ## 🔄 Güncelleme İlkesi
 
-Claude Code'un komutları, özellikleri ve güvenlik seçenekleri zaman içinde değişebilir. Bu nedenle dokümantasyonun resmî kaynaklarla karşılaştırılarak güncel tutulması hedeflenmektedir.
+Claude Code'un özellikleri ve komutları değişebileceğinden, dokümantasyonun resmî kaynaklarla karşılaştırılarak güncel tutulması hedeflenmektedir.
 
 ---
 
